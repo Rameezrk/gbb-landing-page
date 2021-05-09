@@ -1569,7 +1569,7 @@ input, select, textarea {
 		@media screen and (max-width: 480px) {
 
 			#one img{
-				width: 5em;
+				width: 50em;
 			}
 
 			.row {
